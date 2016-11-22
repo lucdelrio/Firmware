@@ -5,7 +5,12 @@ En Ingeniería en Computación - UNTreF
 
 
 Profesor: Claudio Aciti  
-  Alumno: Lucas Del Rio
+Realizado por:
+
+
+    * Julián Moreno 
+    * Lucas Del Rio
+    * Sebastián Roldán
   
 
 <h2>Trabajo de Cursada</h2>
