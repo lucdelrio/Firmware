@@ -1,4 +1,4 @@
-<h1>Análisis y Diseño de Sistemas en Tiempo Real</h1>
+#Análisis y Diseño de Sistemas en Tiempo Real
 
 
 En Ingeniería en Computación - UNTreF
@@ -7,15 +7,14 @@ En Ingeniería en Computación - UNTreF
 Profesor: Claudio Aciti  
 Realizado por:
 
-
-    * Julián Moreno 
-    * Lucas Del Rio
-    * Sebastián Roldán
+       - Julián Moreno 
+       - Lucas Del Rio
+       - Sebastián Roldán
   
 
-<h2>Trabajo de Cursada</h2>
+##Trabajo de Cursada
 
-<h4>Consigna:</h4>
+####Consigna:
 
 Se tienen tres tareas de tiempo real T1, T2 y T3 (inician todas en 0), con la siguiente descripción:
 
@@ -30,7 +29,7 @@ P4 dispara cada vez que es presionado a la tarea T5. Esta tarea prende el led 4 
 
 Inicialmente N=1
 
-<h5>Comentarios:</h5>
+#####Comentarios:
 
 Se llevó a cabo la realización del Trabajo correspondiente, ejecutando las tareas y teniendo la secuencia de luces esperada.
 Para la impresión en consola se trabajó para que se muestren los valores esperados en Terminal luego de ejecutar el comando
