@@ -1,7 +1,5 @@
 #Análisis y Diseño de Sistemas en Tiempo Real
-
-
-En Ingeniería en Computación - UNTreF
+####En Ingeniería en Computación - UNTreF
 
 
 Profesor: Claudio Aciti  
