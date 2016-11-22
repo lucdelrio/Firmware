@@ -29,7 +29,10 @@ Inicialmente N=1
 
 #####Comentarios:
 
-Se llevó a cabo la realización del Trabajo correspondiente, ejecutando las tareas y teniendo la secuencia de luces esperada.
+Se llevó a cabo la realización del Trabajo correspondiente, ejecutando las tareas y teniendo la secuencia de luces esperada.  
+  Además se dispone de comentarios en el código que sirven cómo explicación del accionar de las Tareas.
+
+
 Para la impresión en consola se trabajó para que se muestren los valores esperados en Terminal luego de ejecutar el comando
 "make openocd", pero no se ha logrado el resultado esperado por eso mismo el código de impresión está comentado. Ocurría
 que la ejecución de 2 o 3 tareas con impresión era exitosa pero cuando corrían todas había cierto error que no fue posible solucionar.
