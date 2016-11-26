@@ -5,20 +5,9 @@
 #include "ciaaPOSIX_string.h" /* <= string header */
 #include "ciaak.h"            /* <= ciaa kernel header */
 
-/*==================[macros and definitions]=================================*/
-
-/*==================[internal data declaration]==============================*/
-
-/*==================[internal functions declaration]=========================*/
-
 /*==================[internal data definition]===============================*/
-static uint8 led1=0;
-static uint8 led2=0;
-static uint8 led3=0;
-static uint8 led4;
 static int n;
 static int salida;
-/*==================[external data definition]===============================*/
 /*==================[internal functions definition]==========================*/
 /**  File descriptor for digital output ports
  *   Device path /dev/dio/out/0
@@ -82,7 +71,7 @@ TASK(Task1)
 	outputs ^= 0x08;
 	ciaaPOSIX_write(leds, &outputs, 1);
 
-    //printf("Valor de Task1: %d\n", n*1);
+	//printf("Valor de Task1: %d\n", n*1);
 
 	TerminateTask();
 }
@@ -138,9 +127,6 @@ TASK(Task4)
 	TerminateTask();
 }
 
-/*
- *
- */
 TASK(PeriodicTask5)
 {
 	uint8 outputs;
