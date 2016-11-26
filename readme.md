@@ -5,9 +5,9 @@
 Profesor: Claudio Aciti  
 Realizado por:
 
-       - Julián Moreno 
-       - Lucas Del Rio
-       - Sebastián Roldán
+  * Julián Moreno 
+  * Lucas Del Rio
+  * Sebastián Roldán
   
 
 ##Trabajo de Cursada
